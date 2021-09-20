@@ -682,7 +682,7 @@ def menu_select():
 		                                                cp.close()
  
 		                                                cps.append(uid)
-                                               else:
+                                                             else:
  
 		                                                if 'access_token' in d:
  
